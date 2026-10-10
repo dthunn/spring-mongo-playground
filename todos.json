@@ -1,0 +1,9 @@
+[
+  { "title": "Learn Spring Boot basics", "completed": true },
+  { "title": "Connect Spring Boot to MongoDB", "completed": true },
+  { "title": "Build the GET all todos endpoint", "completed": true },
+  { "title": "Add POST endpoint to create a todo", "completed": false },
+  { "title": "Add PUT endpoint to update a todo", "completed": false },
+  { "title": "Add DELETE endpoint to remove a todo", "completed": false },
+  { "title": "Write a few unit tests", "completed": false }
+]
